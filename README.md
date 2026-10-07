@@ -1,4 +1,7 @@
 # practica-git-cuy6142-
+
+Joel Cabana
+
 Repositorio de práctica de Git y GitHub – CUY6142
 
 ## Contenido
